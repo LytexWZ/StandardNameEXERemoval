@@ -15,3 +15,13 @@ A star is highly appreciated!
 - Execute it as administrator
 
 Thist will wipe all traces and configurations the malware created it
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=LytexWZ%2FStandardNameEXERemoval&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=LytexWZ/StandardNameEXERemoval&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=LytexWZ/StandardNameEXERemoval&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=LytexWZ/StandardNameEXERemoval&type=date&legend=top-left" />
+ </picture>
+</a>
